@@ -26,7 +26,7 @@ h2 {
     line-height: 44px;
     text-align: center;
     color: #2F281E;
-    padding: 99px auto;
+    padding: 100px auto;
 }
 
 .title-holder {
@@ -47,15 +47,20 @@ p {
     margin: 0 0 20px;
 }
 
+li {
+    display: inline;
+
+}
+
 .nav-list {
     list-style: none;
     text-align: center;
-    margin: 0 -10px;
+    margin: 0 -20px;
 }
 
 .nav-item {
     display: inline-block;
-    padding: 0 10px;
+    padding: 0 20px;
 }
 
 .nav-link {
@@ -69,6 +74,7 @@ p {
 .nav-link:hover {
     color: #FF9900;
 }
+
 .btn-header {
     background-color: #FFFFFF;
     color: #2F281E;
@@ -85,6 +91,7 @@ p {
     background-color: #FF9900;
     color: #ffffff;
 }
+
 .container {
     max-width: 1200px;
     width: 100%;
@@ -133,7 +140,7 @@ p {
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
-    padding: 0 0 74 p;
+    padding: 0 0 74px;
     margin-bottom: 100px;
 }
 
